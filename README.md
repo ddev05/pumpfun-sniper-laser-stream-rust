@@ -74,4 +74,4 @@ Below Stats are neither chosen nor filtered.
 
 You can easily have a test current snipe bot. `pumpfun-laserstream-sniper-trial`
 In test mode , you can only buy 0.01 token with 1 lamport.
-If you wanna get source code , reach me out on [vvizardev's telegram](https://t.me/vvizardev)
+If you wanna get source code , reach me out on [U_KNOWN's telegram](https://t.me/u_known1111)
